@@ -1,4 +1,4 @@
-# localeventsapp
+# TF 6.0 App
 
 A new Flutter project.
 
